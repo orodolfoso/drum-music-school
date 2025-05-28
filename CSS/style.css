@@ -30,6 +30,7 @@ body {
   font-size: 23px;
   font-weight: bold;
   cursor: pointer;
+  text-decoration: none;
 }
 
 .header a:hover {
