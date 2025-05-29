@@ -4,8 +4,8 @@ const maskForm = document.querySelector(".mascara-form");
 const clickButton = document.querySelector(".contact-btn");
 
 function showForm() {
-  talkForm.style.left = "35%";
-  talkForm.style.tranform = "translateX(-35%)";
+  talkForm.style.left = "10%";
+  talkForm.style.tranform = "translateX(-10%)";
   maskForm.style.visibility = "visible";
 }
 
